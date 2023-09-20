@@ -10,7 +10,7 @@ I'm a dedicated Computer Science major at Morgan State University, with a passio
 * ✉️  You can contact me at [mebudenifemi@gmail.com](mailto:mebudenifemi@gmail.com)
 * 🧠  I'm learning Angular framework
 
-### Skills
+### Skills & Expertise
 
 
 <p align="left">
